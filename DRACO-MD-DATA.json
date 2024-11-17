@@ -1,0 +1,9 @@
+{
+  "bot":{ 
+"active":"active", // avtive,disable
+"dismsg":"*BOT DISABLE BY Mr.NUWAN SATHSARA ✅*"
+  }
+  "apis": {
+"widipeapi":"aemt.uk.to"
+  }
+}
