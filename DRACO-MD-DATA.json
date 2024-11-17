@@ -1,8 +1,8 @@
 {
   "bot":{ 
-"status":"true",
+"status":true,
 "dismsg":"*BOT DISABLE BY Mr.NUWAN SATHSARA ✅*"
-  }
+  },
   "api": {
 "widipeapi":"aemt.uk.to"
   }
